@@ -71,8 +71,8 @@ Using the API client, you can perform requests to the API.
 
 ```
 var queryOptions = new wordsextractorQueryOptions{
-  "text": "My friend from college hails from a small countryside village located at the heart of the state. During the last summer vacation, I had an opportunity to visit my friend in his village. I packed up my belongings and boarded the bus bound for the village",
-  "partofspeech": "verbs"
+  text: "My friend from college hails from a small countryside village located at the heart of the state. During the last summer vacation, I had an opportunity to visit my friend in his village. I packed up my belongings and boarded the bus bound for the village",
+  partofspeech: "verbs"
 };
 ```
 
